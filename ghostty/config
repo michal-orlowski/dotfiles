@@ -1,0 +1,11 @@
+## Background
+background-opacity = 0.95
+
+## Theme
+
+theme = catppuccin-mocha
+
+## Fonts
+font-family = "JetBrains Mono Nerd Font Mono"
+font-thicken = true
+font-size = 10
